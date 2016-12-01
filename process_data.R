@@ -1,6 +1,6 @@
 ## process data
 ## setwd('~/R Project/Computer_intensive/HW4/')
-load('Unemployed.RData')
+load('unemp_app.RData')
 library(maps)
 library(RColorBrewer)
 library(choroplethr)
