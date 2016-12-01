@@ -1,5 +1,5 @@
 ## process data
-setwd('~/R Project/Computer_intensive/HW4/')
+## setwd('~/R Project/Computer_intensive/HW4/')
 load('Unemployed.RData')
 library(maps)
 library(RColorBrewer)
